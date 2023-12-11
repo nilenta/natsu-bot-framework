@@ -1,6 +1,6 @@
 # natsu's hummus bot framework
 
-This is the "framework" i made for natsubot, on hummus.
+This is the "framework" I made for natsubot, on hummus.
 
 Feel free to modify.
 
@@ -50,9 +50,9 @@ There is already a command handler in the events folder under `messageCreate.js`
 
 # yeah but how do i add commands
 
-In the `commands` folder, add a js file, name it whatever you want the command to be called. For example, lets say i want to make a command called `help`.
+In the `commands` folder, add a js file, name it whatever you want the command to be called. For example, lets say I want to make a command called `help`.
 
-If i want it to say "You need help? I gotchu bro" I would add this:
+If I want it to say "You need help? I gotchu bro" I would add this:
 
 ```js
 module.exports = {
