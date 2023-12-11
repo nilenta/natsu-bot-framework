@@ -52,7 +52,7 @@ There is already a command handler in the events folder under `messageCreate.js`
 
 In the `commands` folder, add a js file, name it whatever you want the command to be called. For example, lets say i want to make a command called `help`.
 
-You would have to add this
+If i want it to say "You need help? I gotchu bro" I would add this:
 
 ```js
 module.exports = {
