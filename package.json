@@ -1,0 +1,40 @@
+{
+	"name": "natsu-framework",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "node -r dotenv/config .",
+		"dev": "nodemon --exec \"npm run start\""
+	},
+	"dependencies": {
+		"axios": "^1.6.0",
+		"buffer": "^6.0.3",
+		"canvacord": "^5.4.10",
+		"canvas": "^2.11.2",
+		"cat-facts": "^1.0.2",
+		"child_process": "^1.0.2",
+		"davie-eris-embed": "^1.0.3",
+		"discord-api-types": "^0.37.62",
+		"dotenv": "^16.3.1",
+		"eris-hummus": "^0.0.5",
+		"form-data": "^4.0.0",
+		"fullwidth": "^1.2.0",
+		"gifencoder": "^2.0.1",
+		"glitch-canvas": "^1.1.12",
+		"https": "^1.0.0",
+		"isomorphic-fetch": "^3.0.0",
+		"jimp": "^0.22.10",
+		"mysql": "^2.18.1",
+		"node-fetch": "^3.3.2",
+		"node-schedule": "^2.1.1",
+		"path": "^0.12.7",
+		"puppeteer": "^21.5.2",
+		"puppeteer-screen-recorder": "^2.1.2",
+		"qrcode": "^1.5.3",
+		"request": "^2.88.2",
+		"txtgen": "^3.0.6",
+		"util": "^0.12.5",
+		"vm2": "^3.9.19",
+		"ws": "^8.14.2"
+	}
+}
