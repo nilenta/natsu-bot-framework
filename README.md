@@ -69,3 +69,8 @@ This will execute when the user runs the help command, **BE SURE TO ADD YOUR OWN
 Dm me on discord, my username is "nilenta"
 
 Alternatively, you can dm me on hummus, my hummus tag is "natsu#1863"
+
+
+
+https://github.com/nilenta/natsu-bot-framework/assets/145288586/5253ed92-85b0-42f0-a3b3-e9a61546da21
+
